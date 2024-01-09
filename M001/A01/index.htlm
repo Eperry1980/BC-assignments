@@ -1,1 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="description" content="[add your bin description]">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Lisa's Favorite Carne Asada Marinade
+  </title>
+</head>
+<body>
+  <h3> Carne Asada Recipe Ideas </h3>
+  <div id="introduction">
+ <h1>Module 01:  Introduction to HTML </h1>
+ <h2>Created by: Eleanor Perry </h2>     
+    <figure>
+      <hr> 
+      <h3> 
+        <div id="tile"> 
+          Carne Asada Steak 
+          <figure> 
+<img src="https://www.allrecipes.com/thmb/GrdqfU7GCNTPt4_AhY3o3BpT6QA=/0x512/filters:no_upscale():max_bytes(150000):strip_icc()/LisasFavoriteCarneAsadaMarinade-882e8df2f38945ecb7afd09ad3089c3c.jpg" alt="Carna Asada Steak" width="910" height="512">  
 
+<a href="https://www.allrecipes.com/recipe/186691/lisas-favorite-carne-asada-marinade/" target="_blank"> Carne Asada Recipes</a>
+<h3> 
+        <div id="tile"> 
+        Carne Asada Tacos
+
+<img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fd18296083ea0943002e8b87a6928009e%2F164436152198C2F2B8-218F-403C-B267-9160B9B4B6A6.jpeg&amp;q=60&amp;c=sc&amp;orient=true&amp;poi=auto&amp; alt="Carne Asada Tacos"h=512" width="478" height="399">
+
+<h3> 
+        <div id="tile"> 
+         Grilled Carne Asada
+<img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8062268.jpg&amp;q=60&amp;c=sc&amp;orient=true&amp;poi=auto&amp; alt="Grilled Carne Asada"h=512" width="479" height="479">
+
+<h3> 
+        <div id="tile"> 
+         Carne Asada Fajitas
+<img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7848353.jpg&amp;q=60&amp;c=sc&amp;orient=true&amp;poi=auto&amp;alt="Carne Asada Fajitas"h=512" width="479" height="358"> 
+
+<h3> 
+        <div id="tile"> 
+      Marinating Carne Asada
+<img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7151007.jpg&amp;q=60&amp;c=sc&amp;orient=true&amp;poi=auto&amp;alt="Marinating Carne Asada"h=512" width="479" height="479"> 
+
+<h3> 
+        <div id="tile"> 
+    Carne Marinade Mix
+<img  src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F286c587cb5ebb6d828bc20fdc8bd6626%2F3235739.jpg&amp;q=60  alt="Carne Marinade Mix"&amp;c=sc&amp;orient=true&amp;poi=auto&amp;h=512" width="479" height="479">
+
+
+</html>
