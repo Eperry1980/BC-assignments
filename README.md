@@ -39,7 +39,7 @@ Chicken Enchiladas
 
 <h3>
          <div class="row">
-<a href="https://cookieandkate.com/huevos-rancheros-recipe/" target="_blank"</a><img src="https://cookieandkate.com/images/2017/05/best-huevos-rancheros-recipe-2-550x757.jpg" alt="Huevos Rancheros" width="185" height="167"><a/></div>
+<a href="https://cookieandkate.com/huevos-rancheros-recipe/" target="_blank"</a><img src="https://cookieandkate.com/images/2017/05/best-huevos-rancheros-recipe-2-550x757.jpg" alt="Huevos Rancheros" width="185" height="167"><a/> </div>
 
 <div id=title">
 Huevos Rancheros
@@ -49,7 +49,7 @@ Huevos Rancheros
 
         <div class="row">
          
-<a href="https://www.isabeleats.com/authentic-birria/" target=_"blank"</a><img src="https://www.isabeleats.com/wp-content/uploads/2023/06/birria-small-12-650x975.jpg" alt="Authentic Birria" width="158" height="170"></a>
+<a href="https://www.isabeleats.com/authentic-birria/" target=_"blank"</a><img src="https://www.isabeleats.com/wp-content/uploads/2023/06/birria-small-12-650x975.jpg" alt="Authentic Birria" width="158" height="170"></a> </div>
 
 <div id=title">
 Authentic Birria 
