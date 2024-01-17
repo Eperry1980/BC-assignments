@@ -45,10 +45,7 @@ Chicken Enchiladas
 Huevos Rancheros
 
 <h3>
-
-
         <div class="row">
-         
 <a href="https://www.isabeleats.com/authentic-birria/" target=_"blank"</a><img src="https://www.isabeleats.com/wp-content/uploads/2023/06/birria-small-12-650x975.jpg" alt="Authentic Birria" width="158" height="170"></a> </div>
 
 <div id=title">
